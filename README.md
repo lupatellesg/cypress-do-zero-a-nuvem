@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para praticar a automação de testes end-to-end (
 
 O foco da automação é um formulário de suporte (conforme imagem abaixo) que recolhe dados como nome, e-mail, tipo de atendimento e anexos.
 
-![Formulário de Atendimento](./image_f48b67.png) ## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 * **[Cypress](https://www.cypress.io/):** Framework de automação de testes.
 * **JavaScript:** Linguagem de programação utilizada.
